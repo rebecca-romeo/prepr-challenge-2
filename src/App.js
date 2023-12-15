@@ -1,3 +1,4 @@
+import 'bootstrap-icons/font/bootstrap-icons.css';
 import RegisterForm from './components/register/RegisterForm';
 import Footer from './components/Footer';
 import './App.css';
