@@ -50,10 +50,21 @@ ul {
   font-weight: 700;
 }
 
+/* MAIN */
+main {
+  background-color: #ADD489;
+  padding: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 /* FORM */
 .registrationContainer {
   border-radius: 10px;
   padding: 2rem;
+  background-color: white;
+  width: 40%;
 }
 
 .logoContainer {
@@ -64,6 +75,8 @@ ul {
 form {
   border-top: 1px solid #E0E7EF;
   margin-top: 2rem;
+  padding-top: 2rem;
+  text-align: center;
 }
 
 form div {
@@ -93,13 +106,14 @@ input {
 
 /* IMG Carousel */
 .carouselImg {
-  max-width: 50%;
+  max-width: 80%;
   padding: 0 2rem;
 }
 
 .carouselContainer {
   text-align: center;
-  color: #c9cbcf;
+  color: #e2e4e8;
+  width: 80%;
 }
 .carouselContainer i {
   font-size: 3rem;
