@@ -83,14 +83,30 @@ input {
   width: 90%;
 }
 
-
-
 .registerButton {
   color: white;
   background-color: #FFA841;
   border: none;
   border-radius: 5px;
   padding: 1rem 7rem;
+}
+
+/* IMG Carousel */
+.carouselImg {
+  max-width: 50%;
+  padding: 0 2rem;
+}
+
+.carouselContainer {
+  text-align: center;
+  color: #c9cbcf;
+}
+.carouselContainer i {
+  font-size: 3rem;
+}
+
+.dots {
+  color: #464646;
 }
 
 
