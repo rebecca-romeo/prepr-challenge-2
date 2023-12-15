@@ -50,6 +50,49 @@ ul {
   font-weight: 700;
 }
 
+/* FORM */
+.registrationContainer {
+  border-radius: 10px;
+  padding: 2rem;
+}
+
+.logoContainer {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  border-top: 1px solid #E0E7EF;
+  margin-top: 2rem;
+}
+
+form div {
+  display: flex;
+  align-items: center;
+}
+
+form i {
+  color: #A9AFBD;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid #E0E7EF;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  width: 90%;
+}
+
+
+
+.registerButton {
+  color: white;
+  background-color: #FFA841;
+  border: none;
+  border-radius: 5px;
+  padding: 1rem 7rem;
+}
+
 
 /* FOOTER */
 footer {
